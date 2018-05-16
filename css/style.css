@@ -211,11 +211,16 @@ h2 {
 	margin-top: 30px;
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.tshirtmain{
+	margin-bottom: 40px;
 }
 
 .tshirts img{
 	display: inline;
-	width: 150px;
+	width: 250px;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 5px;
@@ -294,6 +299,14 @@ h5{
 	width: 340px;
 	float: right;
 
+}
+
+.contacto{
+	display: flex;
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
 }
 
 
