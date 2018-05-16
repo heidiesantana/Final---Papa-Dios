@@ -12,8 +12,11 @@ a{
 
 .up img{
 	display: flex;
-	width: 1440px;
 	height: 206px;
+}
+
+.main{
+	display: flex;
 }
 
 .logo img{
@@ -84,7 +87,6 @@ li a:hover{
 
 footer{
 	background: #FAF2D3;
-	width: 1440px;
 	height: 30px;
 
 }
@@ -135,10 +137,16 @@ h2 {
 
 .blogmain{
 	display: block;
-	float: right;
 	padding: 30px;
-	margin-top: -100;
 
+}
+
+.barra-derecha{
+	width: 440px;
+}
+.post{
+	display:flex;
+	float: right;
 }
 
 .oferta{
