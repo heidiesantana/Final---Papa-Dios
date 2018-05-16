@@ -17,6 +17,7 @@ a{
 
 .main{
 	display: flex;
+	justify-content: center;
 }
 
 .logo img{
@@ -67,7 +68,7 @@ a{
 
 }
 
-li {
+.menu-bottom li {
 	display: inline;
 	font-family: 'Quattrocento Sans', sans-serif;
 	padding: 20px;
@@ -102,10 +103,13 @@ footer p{
 	color: #6D6E71;
 }
 
-.redes img{
-	display: inline;
-	width: 40px;
-	height: 40px;
+.contenido{
+	width: 1000px;
+
+}
+
+.new{
+	margin-top: 50px;
 }
 
 .new img{
@@ -129,10 +133,23 @@ h2 {
 
 }
 
+.productos{
+	margin-top: 50px;
+}
+
+.velasmain li{
+	float: left;
+
+}
+
 .velasmain img{
 	width: 300px;
 	display: inline;
 	padding: 10px;
+}
+
+.barra-derecha{
+	width: 320px;
 }
 
 .blogmain{
@@ -141,17 +158,27 @@ h2 {
 
 }
 
-.barra-derecha{
-	width: 440px;
-}
 .post{
-	display:flex;
 	float: right;
+	padding: 5px;
 }
 
-.oferta{
+.post img{
+	width: 120px;
+	height: 120px;
+}
+
+
+
+.oferta img{
 	width: 200px;
-	float: right;
+	padding: 20px 60px;
+
+}
+
+.usmain{
+	float:left;
+
 }
 
 .usmain img{
@@ -162,10 +189,8 @@ h2 {
 
 }
 
-.comonace img{
-	display: flex;
-	float: right;
-	width: 300px;
+.ustext{
+	width: 500px;
 }
 
 .ustext p{
@@ -175,7 +200,6 @@ h2 {
 	text-align: justify;
 	font-size: 15px;
 	width: 400px;
-	float: right;
 	padding: 20px;
 	line-height: 1.5;
 }
