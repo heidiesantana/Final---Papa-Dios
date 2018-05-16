@@ -7,7 +7,6 @@ background-color: white;
 a{
 	text-decoration: none;
 	color: white;
-	display: flex;
 }
 
 .up img{
@@ -25,6 +24,7 @@ a{
 	margin-left: -50px;
 	margin-top: -170px;
 	width: 620px;
+	pointer-events: none;
 
 }
 
@@ -303,10 +303,10 @@ h5{
 
 .contacto{
 	display: flex;
-	width: 700px;
+	width: 400px;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 60px;
+	margin-top: 10px;
 }
 
 
