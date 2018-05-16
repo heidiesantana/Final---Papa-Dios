@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Quattrocento+Sans');
+
+body{
+background-color: white;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	display: flex;
+}
+
+.up img{
+	display: flex;
+	width: 1440px;
+	height: 206px;
+}
+
+.logo img{
+	margin-left: -50px;
+	margin-top: -170px;
+	width: 620px;
+
+}
+
+.shop img{
+	width: 25px;
+
+}
+
+.search img{
+	width: 25px;
+
+}
+
+.search-container{
+	display: flex;
+}
+
+
+.button-search img{
+	width: 25px;
+}
+
+.menu{
+	float: right;
+}
+
+.menu-top {
+	width: 200px;
+	float: right;
+	padding: 10px;
+	margin-top: -120px;
+	margin-right: 50px;
+}
+
+.menu-bottom {
+	display: flex;
+	background: #FAF2D3;
+	width: 1060px;
+	height: 50px;
+	margin-top: -70px;
+	margin-right: 50px;
+
+}
+
+li {
+	display: inline;
+	font-family: 'Quattrocento Sans', sans-serif;
+	padding: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-left: 50px;
+}
+
+li a{
+	text-decoration: none;
+	color: #6D6E71;
+}
+li a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+footer{
+	background: #FAF2D3;
+	width: 1440px;
+	height: 30px;
+
+}
+
+footer p{
+	font-family: 'Quattrocento Sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 14px;
+	padding: 7px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: #6D6E71;
+}
+
+.redes img{
+	display: inline;
+	width: 40px;
+	height: 40px;
+}
+
+.new img{
+	width: 800px;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.responsive{
+	width: 100%;
+	height: auto;
+}
+
+h2 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: #6D6E71;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 24px;
+
+}
+
+.velasmain img{
+	width: 300px;
+	display: inline;
+	padding: 10px;
+}
+
+.blogmain{
+	display: block;
+	float: right;
+	padding: 30px;
+	margin-top: -100;
+
+}
+
+.oferta{
+	width: 200px;
+	float: right;
+}
+
+.usmain img{
+	display: flex;
+	width: 640px;
+	margin-left: 100px;
+	padding: 20px;
+
+}
+
+.comonace img{
+	display: flex;
+	float: right;
+	width: 300px;
+}
+
+.ustext p{
+	display: flex;
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: #6D6E71;
+	text-align: justify;
+	font-size: 15px;
+	width: 400px;
+	float: right;
+	padding: 20px;
+	line-height: 1.5;
+}
+
+.tshirts img{
+	display: inline;
+	width: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: auto;
+}
+
+.comingsoon img{
+	display: flex;
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+}
+
+
+.virgenmaria p{
+	display: flex;
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: #6D6E71;
+	text-align: justify;
+	font-size: 15px;
+	width: 500px;
+	float: left;
+	padding: 20px;
+	margin-left: 100px;
+	line-height: 1.5;
+}
+.virgenmaria img{
+	display: flex;
+	width: 400px;
+	margin-left: 100px;
+
+}
+
+.fotovirgen img{
+	display: flex;
+	margin-right: 300px;
+	width: 300px;
+
+}
+
+h5{
+	display: flex;
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: brown;
+	font-size: 12px;
+	margin-left: 200px;
+
+}
+
+.blogtittle img{
+	display: flex;
+	width: auto;
+	margin-left: auto;
+	padding: 20px;
+	margin-right: auto;
+}
+
+.blogmainreal p{
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: #6D6E71;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration-line: 12px;
+	font-size: 24px;
+	float: right;
+}
+
+.blogmainreal img{
+	display: inline;
+	width: 100px;
+}
+
+.sidebar{
+	display: inline;
+	width: 340px;
+	float: right;
+
+}
+
+
